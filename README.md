@@ -12,13 +12,16 @@ Editar Tarefas: Tarefas existentes podem ser editadas simplesmente clicando no t
 *Adicionando Tarefas:*
 - Digite a tarefa no campo de entrada.
 - Pressione enter ou clique no botão de adicionar para adicionar a tarefa à lista.
+
 *Editando Tarefas:*
 - Clique no texto da tarefa que deseja editar.
 - Faça as alterações necessárias no campo de entrada que aparece.
 - Pressione enter ou clique fora do campo de entrada para salvar as alterações.
+
 *Marcando Tarefas como Concluídas:*
 - Clique na caixa de seleção ao lado da tarefa para marcá-la como concluída.
 - Tarefas concluídas serão visualmente distintas das tarefas incompletas.
+
 *Excluindo Tarefas:*
 - Clique no botão de excluir (ícone de lixeira) ao lado da tarefa para excluí-la.
 - Alternativamente, clique no botão de limpar tudo para excluir todas as tarefas de uma vez.
