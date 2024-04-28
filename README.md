@@ -9,19 +9,25 @@ Editar Tarefas: Tarefas existentes podem ser editadas simplesmente clicando no t
 >- Armazenamento Persistente: A aplicação utiliza o recurso LocalStorage dos navegadores web para armazenar tarefas localmente. Isso significa que mesmo se o usuário atualizar a página ou fechar o navegador, sua lista de tarefas permanecerá intacta até ser manualmente limpa.
 
 ## Como Usar
-*Adicionando Tarefas:*
+**Adicionando Tarefas:**
 - Digite a tarefa no campo de entrada.
 - Pressione enter ou clique no botão de adicionar para adicionar a tarefa à lista.
 
-*Editando Tarefas:*
+**Editando Tarefas:**
 - Clique no texto da tarefa que deseja editar.
 - Faça as alterações necessárias no campo de entrada que aparece.
 - Pressione enter ou clique fora do campo de entrada para salvar as alterações.
 
-*Marcando Tarefas como Concluídas:*
+**Marcando Tarefas como Concluídas:**
 - Clique na caixa de seleção ao lado da tarefa para marcá-la como concluída.
 - Tarefas concluídas serão visualmente distintas das tarefas incompletas.
 
-*Excluindo Tarefas:*
+**Excluindo Tarefas:**
 - Clique no botão de excluir (ícone de lixeira) ao lado da tarefa para excluí-la.
 - Alternativamente, clique no botão de limpar tudo para excluir todas as tarefas de uma vez.
+
+## Tecnologias Utilizadas
+- HTML: Usado para estruturar a página da web.
+- CSS: Usado para estilo e layout.
+- JavaScript: Usado para comportamento dinâmico e interação com o DOM.
+- LocalStorage: Utilizado para armazenar dados de tarefas localmente dentro do navegador.
