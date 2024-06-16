@@ -163,7 +163,7 @@
         // ENVIAR UMA NOVA TASK
         let nameTask = itemInputAdd.value
 
-        console.log(nameTask)
+        if (itemInputAdd.value === '') return;
         
         addTask(nameTask)
         renderTask()
