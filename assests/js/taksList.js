@@ -163,7 +163,7 @@
         // ENVIAR UMA NOVA TASK
         let nameTask = itemInputAdd.value
 
-        if (nameTask === undefined) return;
+        console.log(nameTask)
         
         addTask(nameTask)
         renderTask()
