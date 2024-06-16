@@ -162,6 +162,9 @@
     frmTodoAdd.addEventListener('submit', (e) => {
         // ENVIAR UMA NOVA TASK
         let nameTask = itemInputAdd.value
+
+        if (nameTask === '') return;
+        
         addTask(nameTask)
         renderTask()
 
